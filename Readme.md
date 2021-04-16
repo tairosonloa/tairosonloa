@@ -39,11 +39,8 @@ Want to know more? [Check out my website](https://aalonso.dev).
     <td><img src="https://img.shields.io/badge/Infra-Github-informational?style=flat&logo=Github&logoColor=white&color=a9fef7"/></td>
   </tr>
 </table>
-<br>
 
 ## 📈 GitHub Stats
 
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tairosonloa&show_icons=true&theme=dracula" />
-<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairosonloa&hide=TeX&layout=compact&theme=dracula" />
