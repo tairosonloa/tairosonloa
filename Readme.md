@@ -1,6 +1,6 @@
 [![Cover](./images/cover.png)](https://aalonso.dev)
 
-- 👨🏻‍💻 I'm experience developer about TypeScript and clean code
+- 👨🏻‍💻 I'm a experienced developer about TypeScript and clean code
 - ✍🏻 I write and post articles on my [website](https://aalonso.dev) and [DEV.to](https://dev.to/tairosonloa)
 - 🎮 I enjoy playing videogames too!
 
