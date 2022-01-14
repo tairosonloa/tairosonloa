@@ -1,46 +1,61 @@
-[![Cover](./images/cover.png)](https://aalonso.dev)
+<h1>Hi <img src="./assets/wave.gif" width="30px">, I'm Aitor Alonso</h1>
 
-- 👨🏻‍💻 I'm a experienced developer about TypeScript and clean code
-- ✍🏻 I write and post articles on my [website](https://aalonso.dev) and [DEV.to](https://dev.to/tairosonloa)
-- 🎮 I enjoy playing videogames too!
+<p>
+    <a href="https://twitter.com/tairosonloa#gh-light-mode-only">
+        <img src="./assets/light-mode/twitter.svg" />
+    </a>
+    <a href="https://twitter.com/tairosonloa#gh-dark-mode-only">
+        <img src="./assets/dark-mode/twitter.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aitoralonsonunez#gh-light-mode-only">
+        <img src="./assets/light-mode/linkedin.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/aitoralonsonunez#gh-dark-mode-only">
+        <img src="./assets/dark-mode/linkedin.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/tairosonloa#gh-light-mode-only">
+        <img src="./assets/light-mode/github.svg" />
+    </a>
+    <a href="https://github.com/tairosonloa#gh-dark-mode-only">
+        <img src="./assets/dark-mode/github.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://aalonso.dev#gh-light-mode-only">
+        <img src="./assets/light-mode/blog.svg" />
+    </a>
+    <a href="https://aalonso.dev#gh-dark-mode-only">
+        <img src="./assets/dark-mode/blog.svg" />
+    </a>
+</p>
 
-Want to know more? [Check out my website](https://aalonso.dev).
+- 👨‍💻 Full-stack developer with expertise at Node/TypeScript, Express/Nest.js & React/Next.js.
+- 💼 Currently working at [@acidtango](https://github.com/acidtango)
+- 📚 Improving my knowledge about DDD and software design patterns
+- 🏆 Goals for this year: contribute more to Open Source projects
+- 🎮 Love to play video games!
 
-## 🧰 My stack
-<table>
-  <tr>
-    <th>Code</th>
-    <th>Backend</th>
-    <th>Frontend</th>
-    <th>Infra</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Frontend-React.js-informational?style=flat&logo=react&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Infra-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=a9fef7"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Backend-Nest.js-informational?style=flat&logo=Nestjs&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Infra-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=a9fef7"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Backend-Docker-informational?style=flat&logo=Docker&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Frontend-ReactNative-informational?style=flat&logo=react&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Infra-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=a9fef7"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Backend-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Frontend-Expo-informational?style=flat&logo=Expo&logoColor=white&color=a9fef7"/></td>
-    <td><img src="https://img.shields.io/badge/Infra-Github-informational?style=flat&logo=Github&logoColor=white&color=a9fef7"/></td>
-  </tr>
-</table>
+## 📝 Blog posts
 
-## 📈 GitHub Stats
+- [How to use GUI apps in WSL2 (forwarding X server)](https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj)
+- [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/how-to-generate-generics-dtos-with-nestjsswagger-422g)
+- [Accessing network apps running inside WSL2 from other devices in your LAN](https://aalonso.dev/blog/accessing-network-apps-running-inside-wsl2-from-other-devices-in-your-lan-1e1p)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tairosonloa&show_icons=true&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairosonloa&hide=TeX&layout=compact&theme=dracula" />
+## 📈 Github Stats
+
+<p float="left">
+    <a href="https://github.com/tairosonloa#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=tairosonloa&count_private=true&show_icons=true" height="160px" />
+    </a>
+    <a href="https://github.com/tairosonloa#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=tairosonloa&count_private=true&show_icons=true&theme=discord_old_blurple" height="160px" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/tairosonloa#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairosonloa&layout=compact" height="130px" />
+    </a>
+    <a href="https://github.com/tairosonloa#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairosonloa&layout=compact&theme=discord_old_blurple" height="128px" />
+    </a>
+</p>
