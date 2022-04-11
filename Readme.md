@@ -23,10 +23,10 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://aalonso.dev#gh-light-mode-only">
-        <img src="./assets/light-mode/blog.svg" />
+        <img src="./assets/light-mode/link.svg" />
     </a>
     <a href="https://aalonso.dev#gh-dark-mode-only">
-        <img src="./assets/dark-mode/blog.svg" />
+        <img src="./assets/dark-mode/link.svg" />
     </a>
 </p>
 
