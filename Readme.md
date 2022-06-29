@@ -1,8 +1,8 @@
-<h1>Hi <img src="./assets/wave.gif" width="30px">, I'm Aitor Alonso</h1>
+<h1>Hi <img src="./assets/wave.gif" height="30px">, I'm Aitor Alonso</h1>
 
 <p>
     <a href="https://twitter.com/tairosonloa#gh-light-mode-only">
-        <img src="./assets/light-mode/twitter.svg" />
+        <img src="./assets/light-mode/twitter.svg/>
     </a>
     <a href="https://twitter.com/tairosonloa#gh-dark-mode-only">
         <img src="./assets/dark-mode/twitter.svg" />
