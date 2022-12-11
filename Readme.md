@@ -31,7 +31,7 @@
 </p>
 
 - 👨‍💻 Full-stack developer with expertise at Node/TypeScript, Express/Nest.js & React/Next.js.
-- 💼 Currently working at [@taxdown](https://github.com/taxdown)
+- 💼 Currently working at [@cabify](https://cabify.com/en)
 - 📚 Improving my knowledge about DDD and software design patterns
 - 🏆 Goals for this year: contribute more to Open Source projects
 - 🎮 Love to play video games!
