@@ -38,9 +38,9 @@
 
 ## 📝 Blog posts
 
-- [How to use GUI apps in WSL2 (forwarding X server)](https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj)
-- [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/how-to-generate-generics-dtos-with-nestjsswagger-422g)
-- [Accessing network apps running inside WSL2 from other devices in your LAN](https://aalonso.dev/blog/accessing-network-apps-running-inside-wsl2-from-other-devices-in-your-lan-1e1p)
+- [How to use GUI apps in WSL2 (forwarding X server)](https://aalonso.dev/blog/how-to-use-gui-apps-in-wsl2-forwarding-x-server-cdj?ref=github-bio)
+- [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/how-to-generate-generics-dtos-with-nestjsswagger-422g?ref=github-bio)
+- [Accessing network apps running inside WSL2 from other devices in your LAN](https://aalonso.dev/blog/accessing-network-apps-running-inside-wsl2-from-other-devices-in-your-lan-1e1p?ref=github-bio)
 
 ## 📈 Github Stats
 
